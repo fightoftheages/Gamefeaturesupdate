@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🕹 Welcome to FOTA - Fight Of The Ages](README.md)
-* [Gamefeaturesupdate](readme.md)
 * [👋 1. Introduction](1.-introduction.md)
 * [📜 2. The history of the FOTA Universe](2.-the-history-of-the-fota-universe.md)
 
@@ -13,7 +12,25 @@
 
 ## 💎 4. NFT Assets
 
-* [4.1. Hero](4.-nft-assets/4.1.-hero.md)
+* [4.1. Hero](4.-nft-assets/4.1.-hero/README.md)
+  * [EIRA](4.-nft-assets/4.1.-hero/eira.md)
+  * [TIGRIS](4.-nft-assets/4.1.-hero/tigris.md)
+  * [AMALTHEUS](4.-nft-assets/4.1.-hero/amaltheus.md)
+  * [ORSON](4.-nft-assets/4.1.-hero/orson.md)
+  * [OCTONUS](4.-nft-assets/4.1.-hero/octonus.md)
+  * [APRUM](4.-nft-assets/4.1.-hero/aprum.md)
+  * [ZEL](4.-nft-assets/4.1.-hero/zel.md)
+  * [KEKOR](4.-nft-assets/4.1.-hero/kekor.md)
+  * [KEISHA](4.-nft-assets/4.1.-hero/keisha.md)
+  * [AEDUS](4.-nft-assets/4.1.-hero/aedus.md)
+  * [MALHELA](4.-nft-assets/4.1.-hero/malhela.md)
+  * [ALVA](4.-nft-assets/4.1.-hero/alva.md)
+  * [FARRER](4.-nft-assets/4.1.-hero/farrer.md)
+  * [KYLA](4.-nft-assets/4.1.-hero/kyla.md)
+  * [GIDEON](4.-nft-assets/4.1.-hero/gideon.md)
+  * [CYRIL](4.-nft-assets/4.1.-hero/cyril.md)
+  * [CIARA](4.-nft-assets/4.1.-hero/ciara.md)
+  * [GRIMM](4.-nft-assets/4.1.-hero/grimm.md)
 * [4.2. Items](4.-nft-assets/4.2.-items.md)
 * [4.3. FOTALand](4.-nft-assets/4.3.-fotaland.md)
 * [4.4. Skin](4.-nft-assets/4.4.-skin.md)
@@ -33,6 +50,7 @@
 * [📦 7. FOTA Marketplace](7.-fota-marketplace.md)
 * [💰 8. Hybrid Farming](8.-hybrid-farming.md)
 * [👥 9. Referral](9.-referral.md)
+* [⚙️ 10. Microsoft Mesh (Metaverse)](10.-microsoft-mesh-metaverse.md)
 
 ## 🖥 11. Technology
 
@@ -41,6 +59,7 @@
 * [11.3. Blockchain Utilisation](11.-technology/11.3.-blockchain-utilisation.md)
 * [11.4. Decentralized Identity](11.-technology/11.4.-decentralized-identity.md)
 * [11.5. Security System](11.-technology/11.5.-security-system.md)
+* [👨‍🏫 13. Core Team](11.-technology/13.-core-team.md)
 
 ## 💵 12. Tokenomics
 
@@ -51,3 +70,7 @@
 ***
 
 * [🗺 14. Roadmap](14.-roadmap.md)
+* [🌐 Website](https://www.fota.io/)
+* [🔹Telegram Channel](https://t.me/fota\_channel)
+* [🔻 Youtube](https://www.youtube.com/channel/UCnIO0PIzE3LDLyBAij5FtUA)
+* [🟢 Linktree](https://linktr.ee/FightOfTheAges)

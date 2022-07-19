@@ -38,8 +38,8 @@
 [9.-referral.md](9.-referral.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="10.-microsoft-mesh-metaverse.md" %}
+[10.-microsoft-mesh-metaverse.md](10.-microsoft-mesh-metaverse.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
@@ -50,8 +50,8 @@
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="11.-technology/13.-core-team.md" %}
+[13.-core-team.md](11.-technology/13.-core-team.md)
 {% endcontent-ref %}
 
 {% content-ref url="14.-roadmap.md" %}
