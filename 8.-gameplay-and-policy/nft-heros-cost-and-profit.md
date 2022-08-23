@@ -2,7 +2,7 @@
 
 Each NFT Hero has its cost **OwnPrice** and profit **Total Earned**
 
-**OwnPrice** is the price to purchase each Hero according to the table below plus the Eather price used to train the hero's skills, each Eather costs $10.
+**OwnPrice** is the price to purchase each Hero according to the table below plus the Eather price used to train the hero's skills, each Aether costs $10.
 
 |    Name   | Price |
 | :-------: | :---: |
