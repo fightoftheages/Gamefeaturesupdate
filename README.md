@@ -30,16 +30,20 @@
 [7.-fota-marketplace.md](7.-fota-marketplace.md)
 {% endcontent-ref %}
 
-{% content-ref url="8.-hybrid-farming.md" %}
-[8.-hybrid-farming.md](8.-hybrid-farming.md)
+{% content-ref url="8.-gameplay-and-policy.md" %}
+[8.-gameplay-and-policy.md](8.-gameplay-and-policy.md)
 {% endcontent-ref %}
 
-{% content-ref url="9.-referral.md" %}
-[9.-referral.md](9.-referral.md)
+{% content-ref url="9.-hybrid-farming.md" %}
+[9.-hybrid-farming.md](9.-hybrid-farming.md)
 {% endcontent-ref %}
 
-{% content-ref url="10.-microsoft-mesh-metaverse.md" %}
-[10.-microsoft-mesh-metaverse.md](10.-microsoft-mesh-metaverse.md)
+{% content-ref url="10.-referral.md" %}
+[10.-referral.md](10.-referral.md)
+{% endcontent-ref %}
+
+{% content-ref url="12.-microsoft-mesh-metaverse.md" %}
+[12.-microsoft-mesh-metaverse.md](12.-microsoft-mesh-metaverse.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
@@ -50,10 +54,10 @@
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="11.-technology/13.-core-team.md" %}
-[13.-core-team.md](11.-technology/13.-core-team.md)
+{% content-ref url="14.-core-team.md" %}
+[14.-core-team.md](14.-core-team.md)
 {% endcontent-ref %}
 
-{% content-ref url="14.-roadmap.md" %}
-[14.-roadmap.md](14.-roadmap.md)
+{% content-ref url="15.-roadmap.md" %}
+[15.-roadmap.md](15.-roadmap.md)
 {% endcontent-ref %}
