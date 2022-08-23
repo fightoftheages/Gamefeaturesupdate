@@ -48,29 +48,33 @@
 
 * [🏞 6. The Worlds Saga](6.-the-worlds-saga.md)
 * [📦 7. FOTA Marketplace](7.-fota-marketplace.md)
-* [🎮 8. Gameplay & Policy](8.-gameplay-and-policy.md)
-* [💰 9. Hybrid Farming](9.-hybrid-farming.md)
-* [👥 10. Referral](10.-referral.md)
-* [⚙️ 12. Microsoft Mesh (Metaverse)](12.-microsoft-mesh-metaverse.md)
+* [🎮 8. Gameplay & Policy](8.-gameplay-and-policy/README.md)
+  * [NFT Hero’s Cost and Profit](8.-gameplay-and-policy/nft-heros-cost-and-profit.md)
+  * [Hero NFT upgrade skill](8.-gameplay-and-policy/hero-nft-upgrade-skill.md)
+  * [Energy](8.-gameplay-and-policy/energy.md)
+  * [Missions Rewards](8.-gameplay-and-policy/missions-rewards.md)
+* [💰 9. Hybrid Farming](8.-hybrid-farming.md)
+* [👥 10. Referral](9.-referral.md)
+* [⚙️ 12. Microsoft Mesh (Metaverse)](10.-microsoft-mesh-metaverse.md)
 
 ## 🖥 12. Technology
 
-* [12.1. Game Engine](12.-technology/12.1.-game-engine.md)
-* [12.2. Operating Platform](12.-technology/12.2.-operating-platform.md)
-* [12.3. Blockchain Utilisation](12.-technology/12.3.-blockchain-utilisation.md)
-* [12.4. Decentralized Identity](12.-technology/12.4.-decentralized-identity.md)
-* [12.5. Security System](12.-technology/12.5.-security-system.md)
+* [12.1. Game Engine](11.-technology/11.1.-game-engine.md)
+* [12.2. Operating Platform](11.-technology/11.2.-operating-platform.md)
+* [12.3. Blockchain Utilisation](11.-technology/11.3.-blockchain-utilisation.md)
+* [12.4. Decentralized Identity](11.-technology/11.4.-decentralized-identity.md)
+* [12.5. Security System](11.-technology/11.5.-security-system.md)
 
 ## 💵 13. Tokenomics
 
-* [13.1. Token Distribution](13.-tokenomics/13.1.-token-distribution.md)
-* [13.2. Anti-inflation Policy](13.-tokenomics/13.2.-anti-inflation-policy.md)
-* [13.3. Establish the DAO mechanism in FOTA](13.-tokenomics/13.3.-establish-the-dao-mechanism-in-fota.md)
+* [13.1. Token Distribution](12.-tokenomics/12.1.-token-distribution.md)
+* [13.2. Anti-inflation Policy](12.-tokenomics/12.2.-anti-inflation-policy.md)
+* [13.3. Establish the DAO mechanism in FOTA](12.-tokenomics/12.3.-establish-the-dao-mechanism-in-fota.md)
 
 ***
 
-* [👨‍🏫 14. Core Team](14.-core-team.md)
-* [🗺 15. Roadmap](15.-roadmap.md)
+* [👨‍🏫 14. Core Team](11.-technology/13.-core-team.md)
+* [🗺 15. Roadmap](14.-roadmap.md)
 * [🌐 Website](https://www.fota.io/)
 * [🔹Telegram Channel](https://t.me/fota\_channel)
 * [🔻 Youtube](https://www.youtube.com/channel/UCnIO0PIzE3LDLyBAij5FtUA)
