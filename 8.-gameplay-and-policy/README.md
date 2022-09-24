@@ -41,7 +41,7 @@ Hero USDF Ownprice is as follows&#x20;
 
 Note: Ownprice of 1 Hero NFT remains unchanged when buying or renting Heroes from other users&#x20;
 
-#### <mark style="color:blue;">Total Profit:</mark>&#x20;
+#### Total Profit: <mark style="color:blue;"></mark>&#x20;
 
 The profit of 1 Hero NFT is calculated when:&#x20;
 
@@ -62,7 +62,7 @@ A Hero NFT reaches Maximum Profit when:&#x20;
 
 Hero NFTs, when reaching Maximum Profit in either USDF or FOTA, cannot be brought into the squad to play PVE Missions.&#x20;
 
-<mark style="background-color:purple;">**Hero NFT Upgrade Skill**</mark>&#x20;
+### ♦️ <mark style="background-color:purple;">**Hero NFT Upgrade Skill**</mark>&#x20;
 
 Each Hero has 25 levels, 3 skills, each skill has 5 levels.&#x20;
 
