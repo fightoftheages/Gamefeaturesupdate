@@ -1,10 +1,10 @@
 # 🎮 8. Gameplay & Policy
 
-<mark style="background-color:purple;">**Ownprice & Total Profit**</mark>&#x20;
+### ♦️ <mark style="background-color:purple;">**Ownprice & Total Profit**</mark>&#x20;
 
 Each Hero NFT has 2 indicators, Ownprice & Total Profit&#x20;
 
-<mark style="color:blue;">Ownprice:</mark>&#x20;
+#### <mark style="color:blue;">Ownprice:</mark>&#x20;
 
 Ownprice is the total cost of minting 1 NFT when users purchase directly from FOTA Development Team on FOTA Marketplace. Upgrading Heroes' Skills with Aether will increases Ownprice.&#x20;
 
@@ -41,7 +41,7 @@ Hero USDF Ownprice is as follows&#x20;
 
 Note: Ownprice of 1 Hero NFT remains unchanged when buying or renting Heroes from other users&#x20;
 
-<mark style="color:blue;">Total Profit:</mark>&#x20;
+#### <mark style="color:blue;">Total Profit:</mark>&#x20;
 
 The profit of 1 Hero NFT is calculated when:&#x20;
 
@@ -74,14 +74,14 @@ Skills and Level Upgrade requirements are as follows:
 
 <figure><img src="../.gitbook/assets/Screenshot_7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot_8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_8 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Only the owner has the right to upgrade skills of a Hero NFT.&#x20;
 * Leased or Listed Hero NFTs will not be available for skill upgrades. Only NFTs in the Owner's Wallet can be upgraded.&#x20;
 
-<mark style="background-color:purple;">**Game PVE**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;"></mark>&#x20;
+### ♦️ <mark style="background-color:purple;">**Game PVE**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;"></mark>&#x20;
 
-Conditions to start PVE Battles:&#x20;
+#### Conditions to start PVE Battles:&#x20;
 
 * A squad must have 3 heroes to start PVE Battles.&#x20;
 * No heroes reaching Maximum Profit (in either USDF or FOTA) in the squad.
@@ -89,7 +89,7 @@ Conditions to start PVE Battles:&#x20;
 * Heroes on rent must have at least 30 minutes before the expiry. A squad must have 3 heroes to start PVE Battles.&#x20;
 * Hero brought into the squad must not be deposited or listed on the Marketplace.&#x20;
 
-Finishing PVE Battle:&#x20;
+#### Finishing PVE Battle:&#x20;
 
 * After winning, users confirm on the Metamask for the transactions to be processed on blockchain.
 * To avoid Timeout error, players need to click Confirm on Metamask within 10 minutes. -
@@ -102,7 +102,7 @@ Users cannot start another PVE battle during the transaction process when the ga
 
 Users can not start the next PVE Battles until they confirm the Transaction. In the game's Lobby, users will click "Reconfirm" to proceed with the mission.
 
-<mark style="background-color:purple;">**Energy**</mark>
+### ♦️ <mark style="background-color:purple;">**Energy**</mark>
 
 * Energy is consumed to play PVE Missions (WorldMap Campaign)&#x20;
 * At 00:00 UTC daily, each Hero NFT in the wallet and non-expired leased Hero NFT will receive 3 Energy units regardless of any level.
@@ -115,7 +115,7 @@ Users can not start the next PVE Battles until they confirm the Transaction. In 
 * Each Hero participates in PVE Mission 3 times / day, Heroes with 0 Energy will not be allowed to participate in the match.&#x20;
 * Remove the Play for Fun mode when Energy depletes.
 
-<mark style="background-color:purple;">**PVE Missions**</mark>
+### ♦️ <mark style="background-color:purple;">**PVE Missions**</mark>
 
 * &#x20;Worlds in the game have a total of 30 lands (FOTAlands) equivalent to 30 Dungeons (Missions). Each Worldmap in the game has 10 Dungeons.&#x20;
 * Players assemble Heroes and use Items to beat each level.&#x20;
@@ -175,24 +175,24 @@ The Reward, Energy, EXP table of 30 Mission
 |    29   |      1      |     $20     |     $10     |  75 |
 |    30   |      1      |     $21     |    $10.5    |  75 |
 
-<mark style="background-color:purple;">**Referral Bonus**</mark>
+### ♦️ <mark style="background-color:purple;">**Referral Bonus**</mark>
 
-What is Referral Bonus?&#x20;
+#### What is Referral Bonus?&#x20;
 
 * Referral is an act of inviting other people to sign up on FOTA Marketplace via the link \[MKP domain]? Code = \[Username]&#x20;
 * When User A successfully invites User B to sign up on FOTA Marketplace under the given URL, User B is referred to as "F1" of User A, and User A i User B's Inviter&#x20;
 * Referral Bonus is the bonus for Inviters when their F1s carry out tasks to receive Referral Bonus and the Inviter wallet is eligible to receive rewards.
 * &#x20;If the user does not have an Inviter or Inviter does not meet requirements to receive the Referral Bonus, then the bonus will be automatically transferred to the Treasury fund.&#x20;
 
-Tasks to receive Referral Bonus:&#x20;
+#### Tasks to receive Referral Bonus:&#x20;
 
 * 1 - F1 buys, rents items, heroes on FOTA Marketplace
 * 2 - F1 wins missions and Claim PVE Rewards after 14 days of pending&#x20;
 * 3 - F1 buys FOTA LAND or co-own FOTA LAND on FOTA Marketplace Conditions for Inviters to receive Referral Bonus: The Inviter already joins Farm and has at least 100 points in Farming.
 
-<mark style="background-color:purple;">**Marketplace trading**</mark>&#x20;
+### ♦️ <mark style="background-color:purple;">**Marketplace trading**</mark>&#x20;
 
-Trading NFT&#x20;
+#### Trading NFT&#x20;
 
 * NFT can only be transferred from one wallet to another via buying/selling on FOTA Marketplace.&#x20;
 * NFT Hero for sale/for rent must have a minimum level of 5. NFT items for sale/for rent must be Rare or higher.&#x20;
@@ -200,17 +200,17 @@ Trading NFT&#x20;
 * When successfully selling/leasing 1 NFT, the seller/lessor receives 90% of the sale/lease. And the remaining 10% will be divided as follows: 5% to Treasury Fund, 2% of Referral Bonus fee, 3% creative fee.&#x20;
 * The minimum time to rent NFT is 1 day. On expiration date NFTs will be claimable in the Account/History/Order menu on FOTA Marketplace.&#x20;
 
-Upgrade skill hero&#x20;
+#### Upgrade skill hero&#x20;
 
 * When Hero NFT earns sufficient EXP, users can upgrade skills from menu Account/Upgrade skill&#x20;
 * Upgrading skills costs 1 Aether/Skill Level without any other fees. After upgrade, Aether will be burned to increase Ownprice for the Hero NFT.&#x20;
 
-Claim PVE Rewards&#x20;
+#### Claim PVE Rewards&#x20;
 
 * After each successful battle, rewards will be pending in 14 days, players can check the Pending Rewards list and Calculate the date for Reward Claiming from the menu Account/Dashboard/PVE Reward
 * After 14 days of pending, Players receive rewards via the "Claim" button at the Claim tab. Over 24 hours starting from 0h UTC, players who do not Claim will be considered "Missed". When claiming PVE Reward, players receive 90% of the rewards, the rest will be divided for Referral Bonus, Farm, and Landlord.
 
-Note:&#x20;
+### ♦️ <mark style="background-color:purple;">Note:</mark>&#x20;
 
 * The game will open its server at 05:00 UTC on September 24th, 2022&#x20;
 * All pending USDF within 14 days before September 16th, 2022 will be converted into FOTA at the highest price in 12 hours when finishing missions and transferred to the player's wallet every day. Therefore users do not need to claim tokens manually.&#x20;
