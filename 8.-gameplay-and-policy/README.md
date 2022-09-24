@@ -215,4 +215,4 @@ The Reward, Energy, EXP table of 30 Mission
 * The game will open its server at 05:00 UTC on September 24th, 2022&#x20;
 * All pending USDF within 14 days before September 16th, 2022 will be converted into FOTA at the highest price in 12 hours when finishing missions and transferred to the player's wallet every day. Therefore users do not need to claim tokens manually.&#x20;
 * Rewards given after the update can be claimed normally after 14 days of pending.&#x20;
-* Because the price of Eather was halved from $10, users buying Eather prior to the update will receive the same amount of new Eather as their remaining old ones.
+* Because the price of Eather was halved from $10, users buying Aether prior to the update will receive the same amount of new Aether as their remaining old ones.
