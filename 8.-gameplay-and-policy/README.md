@@ -4,7 +4,7 @@
 
 Each Hero NFT has 2 indicators, Ownprice & Total Profit&#x20;
 
-#### <mark style="color:blue;">Ownprice:</mark>&#x20;
+#### Ownprice:&#x20;
 
 Ownprice is the total cost of minting 1 NFT when users purchase directly from FOTA Development Team on FOTA Marketplace. Upgrading Heroes' Skills with Aether will increases Ownprice.&#x20;
 
