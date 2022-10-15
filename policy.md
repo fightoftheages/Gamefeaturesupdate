@@ -63,51 +63,31 @@ In addition to these terms of use, our privacy policy, which sets forth the term
 
 #### Prohibited Use:
 
-* You may not access or use our platform for any purpose other than the one we provide. You also may not use our platform in connection with any commercial service, except where we agree to allow you to do so in a contract with us.
-* Specifically, without our written permission, you will not be able to take any of the following actions:
+You may not access or use our platform for any purpose other than the one we provide. You also may not use our platform in connection with any commercial service, except where we agree to allow you to do so in a contract with us.
 
-&#x20;     \+ Any unauthorized use of our platform, such as collecting user names and/or email addresses by electronic means or other means to send unsolicited email or create user accounts by automated or fraudulent means is strictly prohibited.
+Specifically, without our written permission, you will not be able to take any of the following actions:
 
-&#x20;    \+ Disrupt, disable, or otherwise interfere with security-related features on our platform, including features that prevent or restrict the use or copying of any content, or enforce unlawful conduct with respect to the use of our platform or the content contained therein;&#x20;
-
-&#x20;    \+ Interfere with, disrupt, or create an undue burden on our platform or the networks or services connected to our platform;&#x20;
-
-&#x20;    \+ Attempts to bypass any website measures designed to prevent or restrict access to our platform or any part of our platform;&#x20;
-
-&#x20;    \+ Systematically obtain data or other content from our platform to create or compile, directly or indirectly, a collection, compilation, database or directory;&#x20;
-
-&#x20;    \+ Trick, defraud, or mislead us or other users, especially in any attempt to learn sensitive account information such as user account details and passwords;&#x20;
-
-&#x20;    \+ Attempts to impersonate another user or person or use another user's username;&#x20;
-
-&#x20;    \+ Use any information collected from our platform to harass, abuse or harm others;&#x20;
-
-&#x20;    \+ Sell ​​or transfer your account;&#x20;
-
-&#x20;    \+ Engage in any automated use of the system, such as using commands to send comments or messages, or using any data exploitation tools, robots or similar data collection and extraction tools;&#x20;
-
-&#x20;    \+ Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with the use and experience or modification of our platform or impairs, disrupts, alters or interfere with the use, features, functionality, operation or maintenance of our platform;&#x20;
-
-&#x20;    \+ Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1x1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or pcms”).&#x20;
-
-&#x20;    \+ Except for the use of a standard search engine or Internet browser; develop or distribute any automated system, including but not limited to, any Web crawlers, robots, cheating applications, scanners or offline readers accessing our Platform, or using or launching any unauthorized commands or other software;&#x20;
-
-&#x20;    \+ Decode, decompile, disassemble or develop any software that includes or in any way forms part of our platform;&#x20;
-
-&#x20;    \+ Remove the copyright or other proprietary notices from any content on our platform;&#x20;
-
-&#x20;    \+ Copy or adapt the software of our Platform, including but not limited to Flash, PHP, HTML, JavaScript or other programming language;&#x20;
-
-&#x20;    \+ Use our platform as part of competing with us, or use our platform or its content for any commercial enterprise or revenue generating endeavor;&#x20;
-
-&#x20;   \+ Misuse our support services or submit a false report of abuse or misconduct;&#x20;
-
-&#x20;   \+ Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Site to you.&#x20;
-
-&#x20;  \+ Use our platform to advertise or offer to sell unauthorized goods and services;&#x20;
-
-&#x20;  \+ In our opinion, disparage, tarnish, or harm us and/or our Platform; or&#x20;
-
-&#x20;  \+ Use our platform in a manner inconsistent with any applicable law or regulation.
+* Any unauthorized use of our platform, such as collecting user names and/or email addresses by electronic means or other means to send unsolicited email or create user accounts by automated or fraudulent means is strictly prohibited.
+* Disrupt, disable, or otherwise interfere with security-related features on our platform, including features that prevent or restrict the use or copying of any content, or enforce unlawful conduct with respect to the use of our platform or the content contained therein; Interfere with, disrupt, or create an undue burden on our platform or the networks or ser
+* vices connected to our platform;&#x20;
+* Attempts to bypass any website measures designed to prevent or restrict access to our platform or any part of our platform;
+* Systematically obtain data or other content from our platform to create or compile, directly or indirectly, a collection, compilation, database or directory;&#x20;
+* Trick, defraud, or mislead us or other users, especially in any attempt to learn sensitive account information such as user account details and passwords;&#x20;
+* Attempts to impersonate another user or person or use another user's username;&#x20;
+* Use any information collected from our platform to harass, abuse or harm others;&#x20;
+* Sell ​​or transfer your account;&#x20;
+* Engage in any automated use of the system, such as using commands to send comments or messages, or using any data exploitation tools, robots or similar data collection and extraction tools;&#x20;
+* Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with the use and experience or modification of our platform or impairs, disrupts, alters or interfere with the use, features, functionality, operation or maintenance of our platform;&#x20;
+* Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1x1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or pcms”).&#x20;
+* Except for the use of a standard search engine or Internet browser; develop or distribute any automated system, including but not limited to, any Web crawlers, robots, cheating applications, scanners or offline readers accessing our Platform, or using or launching any unauthorized commands or other software;&#x20;
+* Decode, decompile, disassemble or develop any software that includes or in any way forms part of our platform;&#x20;
+* Remove the copyright or other proprietary notices from any content on our platform;&#x20;
+* Copy or adapt the software of our Platform, including but not limited to Flash, PHP, HTML, JavaScript or other programming language;&#x20;
+* Use our platform as part of competing with us, or use our platform or its content for any commercial enterprise or revenue generating endeavor;&#x20;
+* Misuse our support services or submit a false report of abuse or misconduct;&#x20;
+* Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Site to you.&#x20;
+* Use our platform to advertise or offer to sell unauthorized goods and services;&#x20;
+* In our opinion, disparage, tarnish, or harm us and/or our Platform; or&#x20;
+* Use our platform in a manner inconsistent with any applicable law or regulation.
 
 \*\*\* With the above PROHIBITION, users will be treated in accordance with our rules and policies. Depending on the severity of the violation, the user will face a compatibility penalty, and at the most, we will revoke the user's right to use all services and products in our ecosystem.
