@@ -75,7 +75,7 @@
 
 * [👨‍🏫 14. Core Team](11.-technology/13.-core-team.md)
 * [🗺 15. Roadmap](14.-roadmap.md)
-* [Policy](policy.md)
+* [📖 16. Policy](16.-policy.md)
 * [🌐 Website](https://www.fota.io/)
 * [🔹Telegram Channel](https://t.me/fota\_channel)
 * [🔻 Youtube](https://www.youtube.com/channel/UCnIO0PIzE3LDLyBAij5FtUA)
